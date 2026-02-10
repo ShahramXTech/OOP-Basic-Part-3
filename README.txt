@@ -54,3 +54,13 @@ A structured implementation of fundamental C++ OOP concepts through six practica
 ```bash
 g++ task1.cpp -o task1 && ./task1
 g++ task6.cpp -o library && ./library
+┌──────────────────────────────────────┐
+│  Name        : Shahram Tariq         │
+│  GitHub      : @ShahramXTech         │
+│  DOB         : 18 January 2006       │
+│  Education   :                       │
+│    • Matric  : Al-Noor School Manki  │
+│    • F.Sc    : Orbit College Swabi   │
+│    • Current : BS Software Engineering│
+│              : Air University Kamra  │
+└──────────────────────────────────────┘
